@@ -2,10 +2,10 @@
 
 //Variables
 
-$Very-Dark-Magenta: #025259;
+$Very-Dark-Magenta: #330259;
 $Soft-Pink: #F29325;
-$Dark-Grayish-Magenta: #007172; 
-$Hover-green: #20b5b799; 
+$Dark-Grayish-Magenta: #460072; 
+$Hover-green: #5a20b799; 
 $Light-Grayish-Magenta: #F4E2DE;
 $White: #D94F04;
 
@@ -222,6 +222,7 @@ body {
         }
     }
     .footer {
+        display: none;
         font-size: 1em;
         a {
             text-decoration: none;
