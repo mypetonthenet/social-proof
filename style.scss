@@ -34,9 +34,7 @@ $League-Spartan: 'League Spartan';
     &:hover {
         transition: all 1s ease;
         scale: 1.05;
-        transform: rotateX(360deg);
         box-shadow: 0 0 15px $Very-Dark-Magenta;
-        border-radius: 30px;
     }
 }
 
@@ -48,12 +46,7 @@ $League-Spartan: 'League Spartan';
     padding: 2.1em;
     border-radius: 10px;
     box-shadow: inset 0 0 0 0 $Hover-green;
-    transition: color .5s ease-in-out, box-shadow .5s ease-in-out;
     cursor: pointer;
-    &:hover {
-        box-shadow: inset 350px 0 0 0 $Hover-green;
-        color: #D94F04;
-    }
 }
 
 body {
