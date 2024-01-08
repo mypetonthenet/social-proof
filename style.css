@@ -97,11 +97,6 @@ body .principal .section02 .rating01, body .principal .section02 .rating02, body
   border-radius: 10px;
   cursor: pointer;
 }
-body .principal .section02 .rating01:hover, body .principal .section02 .rating02:hover, body .principal .section02 .rating03:hover {
-  transition: all 1s ease;
-  scale: 1.05;
-  box-shadow: 0 0 15px #330259;
-}
 body .principal .section02 .rating01 .stars, body .principal .section02 .rating02 .stars, body .principal .section02 .rating03 .stars {
   display: flex;
   justify-content: center;

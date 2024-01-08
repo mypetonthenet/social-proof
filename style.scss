@@ -31,11 +31,6 @@ $League-Spartan: 'League Spartan';
     padding: 1.5em;
     border-radius: 10px;
     cursor: pointer;
-    &:hover {
-        transition: all 1s ease;
-        scale: 1.05;
-        box-shadow: 0 0 15px $Very-Dark-Magenta;
-    }
 }
 
 @mixin card {
